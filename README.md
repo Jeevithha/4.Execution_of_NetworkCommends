@@ -61,7 +61,7 @@ while True:
 ![image](https://github.com/user-attachments/assets/cbd09d54-e677-4a59-9099-6c2d93139626)
 
 
-![image](https://github.com/user-attachments/assets/cce6c11e-cbad-4133-805b-8be88ad7987a)
+
 
 ## Result
 Thus Execution of Network commands Performed.
