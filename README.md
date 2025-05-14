@@ -58,8 +58,8 @@ while True:
 
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/11cfa63d-0142-49d0-ab9e-7e9e3d54fcee)
 
+![Screenshot 2025-05-14 133157](https://github.com/user-attachments/assets/09fbc29e-1afe-4659-8930-c37aaf3c7abe)
 
 
 
